@@ -1,4 +1,4 @@
-#Random Name Generator App
+# Random Name Generator App
 
 The app is based on the tutorial: https://docs.flutter.dev/get-started/codelab .
 
